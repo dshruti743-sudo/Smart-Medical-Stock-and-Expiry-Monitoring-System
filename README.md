@@ -95,4 +95,3 @@ Watch our project working:
 "▶️ Watch Smart Medical Stock and Expiry Monitoring System Demo" (https://drive.google.com/file/d/1Cl_WOPPugBD-Y4UZoKE9dWxcBBVr9Sa9/view?usp=drive_link)
 
 
-
