@@ -94,4 +94,13 @@ Watch our project working:
 
 "▶️ Watch Smart Medical Stock and Expiry Monitoring System Demo" (https://drive.google.com/file/d/1Cl_WOPPugBD-Y4UZoKE9dWxcBBVr9Sa9/view?usp=drive_link)
 
+📸 Project Gallery
+
+1. 1.jpeg (Display "press button to start" on LCD)
+2. 2.jpeg (Shows medicine name it's quantity and expiry in days on LCD)
+3. 3.jpeg (Gives alert as few days are left to expire medicine with different sounds of buzzer for minimum days and led glows )
+4. 4.jpeg (same as 3)
+5. 5.jpeg (Gives alert as medicine is expired , led glows and buzzer gives high alert)
+
+
 
