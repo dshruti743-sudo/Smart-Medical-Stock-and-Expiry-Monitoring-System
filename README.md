@@ -87,3 +87,12 @@ Institution: G H Raisoni College of Engineering and Management, Pune
 ---
 
 This project is an academic prototype. Medicine information is based on predefined sample data and user input; automatic quantity sensing and connected database monitoring are not implemented in the current version.
+
+🎥 Project Demonstration
+
+Watch our project working:
+
+"▶️ Watch Smart Medical Stock and Expiry Monitoring System Demo" (https://drive.google.com/file/d/1Cl_WOPPugBD-Y4UZoKE9dWxcBBVr9Sa9/view?usp=drive_link)
+
+
+
